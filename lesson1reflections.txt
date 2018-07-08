@@ -1,3 +1,4 @@
 Lesson 1 was the best.
+Trial line.
 I learned how to go back to master branch.
 I am back in master branch.
