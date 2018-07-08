@@ -1,1 +1,2 @@
-Lesson 1 was the best
+Lesson 1 was the best.
+I learned how to go back to master branch.

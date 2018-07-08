@@ -1,1 +1,2 @@
 I know how to use git now. Git is a great version control system.
+Master branch rocks!!
